@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+.navbar{
+    padding: 0f;
+    margin: 0px auto;
+}
+.navbar-brand{
+    /* height: 53.2px;
+    width: 610px; */
+    padding: 0;
+    justify-content: center;
+}
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand img{
+    width: 70%;
+    height: 70%;
+}
